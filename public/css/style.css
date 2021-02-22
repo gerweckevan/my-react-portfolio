@@ -596,7 +596,7 @@ INTRO
 .intro {
   height: 100vh;
   position: relative;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 .intro .intro-content {
@@ -675,6 +675,7 @@ ABOUT
 
 .about-mf .about-img img {
   margin-left: 10px;
+  color: #000000;
 }
 
 .skill-mf span {
@@ -682,7 +683,7 @@ ABOUT
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #000000;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -691,6 +692,9 @@ ABOUT
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
   background-color: #0078ff;
+}
+.about-mf .p.lead {
+  color: black;
 }
 
 /*

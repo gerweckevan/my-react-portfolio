@@ -1,5 +1,4 @@
 import React from "react";
-
 //import stock
 import stock from "../img/image1.png";
 import stock1 from "../img/image2.png";
@@ -99,8 +98,10 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Work Calendar</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            
-                          </span>{"https://gerweckevan.github.io/work-calendar/"}
+                          <form action="https://gerweckevan.github.io/work-calendar/">
+                            <input type="submit" value="Go to Site" />
+                          </form>
+                          </span>
                         </div>
                       </div>
                       <div className="col-sm-4">

@@ -1,6 +1,7 @@
 import React from "react";
 import myImage from "../img/male.jpg";
 
+
 class About extends React.Component {
   constructor() {
     super();
@@ -37,10 +38,11 @@ class About extends React.Component {
       ],
       about_me: [
         {
+          
           id: "first-p-about",
           content:
-            "Hey, my name is Evan Gerweck with Vicious Visions. I am just starting in the coding industry, and I am going to Denver University for my degree. I have always been interested in taking things apart and seeing how they work, which is why I started out in the diesel mechanics business. But there was always a curiosity about how websites are built and a fascination by how I can create what I see in my imagination on the computer. I’ve come to realize that app development and website design are my flow, and I am excited to help you with whatever your imagination can dream up as well."
-              
+          "Hey, my name is Evan Gerweck with Vicious Visions. I am just starting in the coding industry, and I am going to Denver University for my degree. I have always been interested in taking things apart and seeing how they work, which is why I started out in the diesel mechanics business. But there was always a curiosity about how websites are built and a fascination by how I can create what I see in my imagination on the computer. I’ve come to realize that app development and website design are my flow, and I am excited to help you with whatever your imagination can dream up as well."
+            
           },
         
       ]
