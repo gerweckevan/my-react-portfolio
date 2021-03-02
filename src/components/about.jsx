@@ -67,10 +67,7 @@ class About extends React.Component {
                           className="about-img"
                           style={{ textAlign: "center" }}
                         >
-                          <img
-                            className="img-fluid rounded b-shadow-a"
-                            alt=""
-                          />
+                          
                         </div>
                       </div>
                     </div>

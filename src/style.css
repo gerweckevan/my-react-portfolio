@@ -3,7 +3,7 @@ GENERAL STYLING
 */
 body {
   background-color: #f5f5f5 !important;
-  color: #4e4e4e !important;
+  color: #ffffff !important;
 }
 
 h1,
@@ -165,6 +165,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
+  color: white;
 }
 
 .title-left:before {
@@ -185,7 +186,7 @@ a:hover {
 .box-shadow-full {
   padding: 3rem 1.25rem;
   position: relative;
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
   margin-bottom: 3rem;
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -670,10 +671,12 @@ ABOUT
 
 .about-mf .about-img {
   margin-bottom: 2rem;
+  color: white;
 }
 
 .about-mf .about-img img {
   margin-left: 10px;
+  color: white;
 }
 
 .skill-mf span {

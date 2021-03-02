@@ -8,7 +8,6 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./img/icons/css/ionicons.css";
 import "./img/font-awesome/css/font-awesome.css";
 import "lightbox2/dist/css/lightbox.min.css";
-//import { FaAccessibleIcon } from "react-icons/fa";
 import "./style.css";
 
 //import js libraries
@@ -36,8 +35,8 @@ ReactDOM.render(
     <Intro />
     <About />
     <Portfolio />
-    <Contact />
     <Resume />
+    <Contact />
     <BackToTop />
     <Preloader />
   </React.Fragment>,
