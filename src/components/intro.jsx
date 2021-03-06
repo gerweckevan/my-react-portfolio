@@ -6,7 +6,7 @@ import Typed from "react-typed";
 class Intro extends React.Component {
   render() {
     return (
-       <div id="home" className="intro route bg-image" style={{backgroundImage: `url("https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif")`}}>
+       <div id="home" className="intro route bg-image" style={{backgroundImage: `url("https://miro.medium.com/max/3840/1*wJt3v7Gs46uticTUj4y9zg.gif")`}}>
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
