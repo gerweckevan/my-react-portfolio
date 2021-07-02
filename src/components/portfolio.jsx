@@ -81,7 +81,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://git.heroku.com/creative-artist-design.git" target="_blank" rel="noreferrer">
+                <a href="https://test-commerce-23.herokuapp.com/" target="_blank" rel="noreferrer">
                   <div className="work-img">
                     <img src={stock2} alt="" className="img-fluid" />
                   </div>
@@ -166,7 +166,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title" style={{color: "black"}}>Project3 Creative Artist Design TOTW</h2>
+                        <h2 className="w-title" style={{color: "black"}}>Project3 Creative Artist Design </h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             GitHub
