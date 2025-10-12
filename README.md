@@ -6,10 +6,6 @@ Maintained by Evan Gerweck — github.com/gerweckevan
 
 ![Website preview](images/Website.png)
 
-  <p align="center">
-    <img src="images/Website.png" alt="Portfolio website preview showing a glassmorphism user interface with a profile card for Evan Gerweck" width="900">
-  </p>
-
 ✨ Features
 
 ⚡ Performance: Tailwind purge, minified builds, lightweight assets
@@ -61,7 +57,7 @@ return (
 <SEO
         title="Home | Evan Gerweck"
         description="React + Tailwind portfolio and projects by Evan Gerweck."
-        canonical="https://gerweckevan.github.io/my-portfolio/"
+        canonical="https://evan-gerweck-react-portfolio-1e224ee75958.herokuapp.com/"
         image="/thumbnail.png"
       />
 {/_ page content _/}
@@ -102,7 +98,7 @@ A lightweight route-based generator is included.
 Edit routes in routes.config.json:
 
 {
-"siteUrl": "https://gerweckevan.github.io/my-portfolio/",
+"siteUrl": "https://evan-gerweck-react-portfolio-1e224ee75958.herokuapp.com/",
 "routes": ["/", "/projects", "/about", "/contact"]
 }
 
