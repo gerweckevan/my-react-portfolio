@@ -1,5 +1,5 @@
 import React from 'react'
-import { SiJavascript, SiPhp, SiSpring, SiPython, SiGitbook, SiReact, SiPycharm, SiAdobeaftereffects, SiBlender } from 'react-icons/si'
+import { SiJavascript, SiSpring, SiPython, SiReact, SiBlender, SiGitbook } from 'react-icons/si'
 import {
   FiCode,
   FiGithub,
