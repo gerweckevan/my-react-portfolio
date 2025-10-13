@@ -1,10 +1,10 @@
-# :heart: React + Tailwind CSS + Glassmorphism
+<!--
+Guidance for automated coding assistants working on this repository.
+Keep these instructions concise and focused on repository-specific patterns, build/test workflows,
+and notable conventions that help an AI produce correct, idiomatic changes.
+-->
 
-This project uses Tailwind CSS to design a glassmorphism based portfolio website.
-
-:point_right: [CLICK HERE TO SEE IN YOUR BROWSER](https://luanedcosta.github.io/react-tailwindcss-glassmorphism/) :point_left:
-
-<img src="./images/Website.png" alt="An image of the website" />
+# Repo snapshot
 
 - Project: React + TypeScript + Tailwind CSS (CRACO)
 - Key folders: `src/` (App, Components, Services, @types)
@@ -65,8 +65,3 @@ This project uses Tailwind CSS to design a glassmorphism based portfolio website
 ---
 
 If any part of the repo's runtime environment (node/yarn version, CRACO plugins, or CI) is needed and not present in this file, ask the repo maintainer for those specifics before making large changes.
-
-## :man: Author
-
-Evan Gerweck| [Follow me on Linkedin](https://www.linkedin.com/in/evan-gerweck-8b95b9199/)
-
