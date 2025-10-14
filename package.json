@@ -5,7 +5,7 @@
   "private": false,
   "license": "MIT",
   "author": "Evan M Gerweck",
-  "homepage": "http://gerweckevan.github.io/my-react-portfolio/",
+  "homepage": "http://gerweckevan.github.io/my-react-portfolio",
   "dependencies": {
     "@craco/craco": "^6.1.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
@@ -28,9 +28,9 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "start": "craco start",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
-    "start": "craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
