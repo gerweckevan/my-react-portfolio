@@ -1,4 +1,4 @@
-# :heart: React + Tailwind CSS + Glassmorphism
+# :heart: React + Tailwind CSS + Glassmorphism = Modern Portfolio
 
 This project uses Tailwind CSS to design a glassmorphism based portfolio website for Evan Gerweck.
 
