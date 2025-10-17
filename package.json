@@ -5,7 +5,7 @@
   "private": false,
   "license": "MIT",
   "author": "Evan M Gerweck",
-  "homepage": "http://gerweckevan.github.io/my-react-portfolio",
+  "homepage": "https://gerweckevan.github.io/my-react-portfolio",
   "dependencies": {
     "@craco/craco": "^6.1.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
