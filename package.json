@@ -29,7 +29,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
